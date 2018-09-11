@@ -1,6 +1,6 @@
 # Neural Turing Machines
 
-This is a report on the implementation of the paper *[Neural Turing Machines](https://arxiv.org/abs/1410.5401)*. The paper presents the idea of Neural Turing Machines (NTM) and the results of using NTM on a few tasks. However, it does not provide the reader with the neccessary details to reproduce the results presented in the paper. In this report we tried to fill in those gaps and provide an analysis over the experimantals we performed to implement NTM.<br>
+This is a report on the implementation of the paper *[Neural Turing Machines](https://arxiv.org/abs/1410.5401)*. The paper presents the idea of Neural Turing Machines (NTM) and the results of using NTM on a few tasks. However, it does not provide the reader with the necessary details to reproduce the results presented in the paper. In this report we tried to fill in those gaps and provide an analysis over the experiments we performed to implement NTM. Note that we chose to only implement the NTM on the copy task.<br>
 <br>
 There are two files presented here that are titled as follows:
 
